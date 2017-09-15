@@ -2,7 +2,7 @@
 
 <server class="org.jpos.q2.iso.QServer" logger="Q2" name="jpos-server">
 
-	<attr name="port" type="java.lang.Integer">13337</attr>
+	<attr name="port" type="java.lang.Integer">30730</attr>
 	<attr name="maxSessions" type="java.lang.Integer">100</attr>
 	<attr name="minSessions" type="java.lang.Integer">10</attr>
 	
