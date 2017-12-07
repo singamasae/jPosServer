@@ -232,3 +232,254 @@ q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
   </trace>
 </log>
 </logger>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2017-12-07T14:53:40.832">
+  <info>
+    Q2 started, deployDir=/home/rudy/Documents/Code Repositories/jPosServer/deploy
+  </info>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:41.405" lifespan="545ms">
+  <version>
+    jPOS 2.1.1 master/2a2874f (2017-11-13 11:09:54 ART) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:41.413" lifespan="5ms">
+  <info>
+    deploy: /home/rudy/Documents/Code Repositories/jPosServer/deploy/10_server_channel.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:41.429" lifespan="15ms">
+  <info>
+    deploy: /home/rudy/Documents/Code Repositories/jPosServer/deploy/99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2017-12-07T14:53:41.447">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2017-12-07T14:53:41.448" lifespan="1ms">
+  <info>
+               OS: Linux (4.10.0-40-generic)
+             Java: 1.8.0_151 (Oracle Corporation) AES-128
+     process name: 14867@rudy-ThinkPad-E470
+             host: rudy-ThinkPad-E470/127.0.1.1
+              cwd: /home/rudy/Documents/Code Repositories/jPosServer
+       free space: 148.6 GiB
+     usable space: 139.2 GiB
+          version: 2.1.1 (2a2874f)
+         instance: c4d1dc6c-27fd-4035-8e85-8cbab8042d3e
+           uptime: 00:00:00.971 (0.250000)
+       processors: 4
+           drift : 0
+    memory(t/u/f): 234/24/209
+         encoding: UTF-8
+         timezone: Asia/Makassar (Central Indonesia Time) +08:00
+    watch service: sun.nio.fs.LinuxWatchService
+            clock: 1512629621 2017-12-07T06:53:41.449Z
+     thread count: 20
+     peak threads: 20
+     user threads: 17
+            Thread[Reference Handler,10,system]
+            Thread[Finalizer,8,system]
+            Thread[Signal Dispatcher,9,system]
+            Thread[pool-1-thread-1,5,main]
+            Thread[Q2-c4d1dc6c-27fd-4035-8e85-8cbab8042d3e,5,main]
+            Thread[DestroyJavaVM,5,main]
+            Thread[Thread-1,5,main]
+            Thread[Timer-0,5,main]
+            Thread[Thread-4,5,main]
+            Thread[SystemMonitor,5,main]
+            Thread[jpos-server-ThreadPool.PooledThread-0,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-1,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-2,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-3,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-4,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-5,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-6,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-7,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-8,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-9,5,jpos-server-ThreadPool-0]
+    name-registrar:
+      tspace:default: org.jpos.space.TSpace
+         key-count: 0
+            gcinfo: 0,0
+      server.jpos-server: org.jpos.iso.ISOServer
+        connected=0, rx=0, tx=0, last=0
+      Q2: org.jpos.q2.Q2
+      logger.Q2: org.jpos.util.Logger
+      jpos-server: org.jpos.q2.iso.QServer
+      logger.Q2.buffered: org.jpos.util.BufferedLogListener
+  </info>
+</log>
+<log realm="jpos-server.server" at="2017-12-07T14:53:41.533" lifespan="84ms">
+  <iso-server>
+    listening on port 30730
+  </iso-server>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:49.046">
+  <info>
+    shutting down (hook)
+  </info>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:51.449">
+  <trace>
+    undeploying:/home/rudy/Documents/Code Repositories/jPosServer/deploy/99_sysmon.xml
+  </trace>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2017-12-07T14:53:51.452">
+  <info>
+    Stopping SystemMonitor
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2017-12-07T14:53:51.454">
+  <info>
+               OS: Linux (4.10.0-40-generic)
+             Java: 1.8.0_151 (Oracle Corporation) AES-128
+     process name: 14867@rudy-ThinkPad-E470
+             host: rudy-ThinkPad-E470/127.0.1.1
+              cwd: /home/rudy/Documents/Code Repositories/jPosServer
+       free space: 148.6 GiB
+     usable space: 139.2 GiB
+          version: 2.1.1 (2a2874f)
+         instance: c4d1dc6c-27fd-4035-8e85-8cbab8042d3e
+           uptime: 00:00:10.952 (0.290000)
+       processors: 4
+           drift : 0
+    memory(t/u/f): 234/27/206
+         encoding: UTF-8
+         timezone: Asia/Makassar (Central Indonesia Time) +08:00
+    watch service: sun.nio.fs.LinuxWatchService
+            clock: 1512629631 2017-12-07T06:53:51.454Z
+     thread count: 22
+     peak threads: 23
+     user threads: 18
+            Thread[Reference Handler,10,system]
+            Thread[Finalizer,8,system]
+            Thread[Signal Dispatcher,9,system]
+            Thread[SIGTERM handler,9,system]
+            Thread[pool-1-thread-1,5,main]
+            Thread[Q2-c4d1dc6c-27fd-4035-8e85-8cbab8042d3e,5,main]
+            Thread[DestroyJavaVM,5,main]
+            Thread[Thread-1,5,main]
+            Thread[Timer-0,5,main]
+            Thread[Thread-4,5,main]
+            Thread[SystemMonitor,5,main]
+            Thread[Q2-ShutdownHook,5,main]
+            Thread[jpos-server-ThreadPool.PooledThread-0,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-1,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-2,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-3,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-4,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-5,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-6,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-7,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-8,5,jpos-server-ThreadPool-0]
+            Thread[jpos-server-ThreadPool.PooledThread-9,5,jpos-server-ThreadPool-0]
+    name-registrar:
+      tspace:default: org.jpos.space.TSpace
+         key-count: 0
+            gcinfo: 0,0
+      server.jpos-server: org.jpos.iso.ISOServer
+        connected=0, rx=0, tx=0, last=0
+      Q2: org.jpos.q2.Q2
+      logger.Q2: org.jpos.util.Logger
+      jpos-server: org.jpos.q2.iso.QServer
+      logger.Q2.buffered: org.jpos.util.BufferedLogListener
+  </info>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:51.457" lifespan="3ms">
+  <info>
+    undeployed:/home/rudy/Documents/Code Repositories/jPosServer/deploy/99_sysmon.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:51.457">
+  <trace>
+    undeploying:/home/rudy/Documents/Code Repositories/jPosServer/deploy/10_server_channel.xml
+  </trace>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.458">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.459">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:51.459">
+  <info>
+    undeployed:/home/rudy/Documents/Code Repositories/jPosServer/deploy/10_server_channel.xml
+  </info>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.460" lifespan="1ms">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.460" lifespan="1ms">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.460" lifespan="1ms">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.461" lifespan="2ms">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.461" lifespan="2ms">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.461" lifespan="3ms">
+  <queue closed/>
+</log>
+<log realm="jpos-server.pool" at="2017-12-07T14:53:51.461" lifespan="3ms">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2017-12-07T14:53:51.462" lifespan="2ms">
+  <trace>
+    undeploying:/home/rudy/Documents/Code Repositories/jPosServer/deploy/00_logger.xml
+  </trace>
+</log>
+</logger>
